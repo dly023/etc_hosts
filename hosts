@@ -1,0 +1,42 @@
+# CDP-observed hostnames for the radios-argentinas.org page
+# IPv4 snapshot from Google Public DNS; generated 2026-10-04
+# Includes page assets, playback/API endpoints, and all other observed request hosts.
+104.20.32.100 0.stg.yin.radiantack.com
+104.20.32.100 1.stg.yin.radiantack.com
+172.66.161.230 2.stg.yin.radiantack.com
+172.66.161.230 3.stg.yin.radiantack.com
+104.20.32.100 4.stg.yin.radiantack.com
+172.66.161.230 5.stg.yin.radiantack.com
+104.20.32.100 6.stg.yin.radiantack.com
+172.66.161.230 7.stg.yin.radiantack.com
+104.20.32.100 8.stg.yin.radiantack.com
+104.20.32.100 9.stg.yin.radiantack.com
+151.101.1.108 acdn.adnxs.com
+104.20.47.80 ad-delivery.net
+18.155.202.66 ats.rlcdn.com
+104.20.20.189 btloader.com
+17.253.83.151 captive.apple.com
+104.18.12.225 cdn.fuseplatform.net
+104.20.23.13 cdn.id5-sync.com
+104.17.208.5 cdn.jsdelivr.net
+169.150.221.147 cdn.regional-radios.app-mind.com
+104.20.24.1 html-load.cc
+151.101.131.6 is1-ssl.mzstatic.com
+151.101.3.6 is2-ssl.mzstatic.com
+151.101.131.6 is3-ssl.mzstatic.com
+13.226.38.4 js.adsrvr.org
+145.239.177.243 metadata-api.mytuner.mobi
+142.251.218.66 securepubads.g.doubleclick.net
+104.26.14.168 shrillypants.com
+74.119.118.98 static.criteo.net
+169.150.221.147 static.mytuner.mobi
+172.66.161.230 stg.yin.radiantack.com
+200.115.193.38 stream-gtlc.telecentro.net.ar
+63.188.186.14 visit-server.inmobi-choice.io
+142.251.219.14 www.google-analytics.com
+142.251.156.119 www.google.com
+142.251.219.8 www.googletagmanager.com
+142.251.214.35 www.gstatic.com
+79.137.88.105 radios-argentinas.org
+79.137.88.105 www.radios-argentinas.org
+104.20.32.100 yin.radiantack.com
